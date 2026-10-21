@@ -45,7 +45,7 @@ time. **Distributed Web Architecture** explores how such systems are designed: h
 communicate, and which trade-offs come with each architectural choice.
 
 Throughout the module, a single running example, **JobBoard**, an online recruitment platform, helps connect the
-concepts from one chapter to the next.
+concepts from one chapter to the next
 
 ---
 
