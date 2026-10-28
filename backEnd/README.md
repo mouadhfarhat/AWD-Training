@@ -78,8 +78,8 @@ Different MySQL credentials? Change `spring.datasource.username` / `password` in
 mvn spring-boot:run
 ```
 
-- Swagger UI: http://localhost:8080/swagger-ui.html
-- OpenAPI JSON: http://localhost:8080/v3/api-docs/0-all
+- Swagger UI: http://localhost:8083/swagger-ui.html
+- OpenAPI JSON: http://localhost:8083/v3/api-docs/0-all
 
 In Swagger UI, the **“Select a definition”** drop-down list (top right) shows
 the whole API (`0-all`) or a single module (`1-candidat`, `2-job`, `3-candidature`): these are the future microservices.
