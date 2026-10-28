@@ -12,6 +12,7 @@
         <module name="candidat" />
         <module name="ConfigServer" />
         <module name="Job" />
+        <module name="awd-monolith" />
         <module name="gateway" />
       </profile>
     </annotationProcessing>
@@ -24,6 +25,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="ConfigServer" options="-parameters" />
       <module name="Job" options="-parameters" />
+      <module name="awd-monolith" options="-parameters" />
       <module name="candidat" options="-parameters" />
       <module name="condidature" options="" />
       <module name="config-server" options="-parameters" />
