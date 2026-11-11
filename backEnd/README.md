@@ -85,7 +85,7 @@ In Swagger UI, the **“Select a definition”** drop-down list (top right) show
 the whole API (`0-all`) or a single module (`1-candidat`, `2-job`, `3-candidature`): these are the future microservices.
 
 `spring.jpa.hibernate.ddl-auto=none`: the SQL script creates the tables; Hibernate does not touch them.
-
+ 
 ---
 
 ## 📚 Endpoints
